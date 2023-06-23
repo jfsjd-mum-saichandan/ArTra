@@ -1,0 +1,46 @@
+.logo{
+    height: 40px;
+    width: 120px;
+    padding-left: 30px;
+}
+.nav{
+    background-color: rgb(3, 3, 3);
+    height: 80px;
+}
+.nav a{
+    padding-right: 50px;
+    padding-left: 200px;
+    color: rgb(19, 155, 155);
+    text-decoration: none;
+}
+.nav a:hover{
+    color: rgb(58, 56, 56);
+    background-color: rgb(22, 177, 212);
+    -webkit-text-stroke: cyan;
+}
+.img1{
+    width: 100%;
+    height: 500px;
+    align-items: center;
+}
+.centered {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size:100px;
+    border-radius: 30px;
+    color:rgb(244, 190, 231)
+  }
+  span{
+    color: aqua;
+  }
+  .centered1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size:50px;
+    border-radius: 30px;
+    color:rgb(254, 254, 254)
+  }
